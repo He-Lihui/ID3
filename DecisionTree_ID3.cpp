@@ -1,4 +1,4 @@
-//第一个版本
+//w d第2个版本
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -491,3 +491,4 @@ int main()
   cout << endl;
   delete root;
 }
+
